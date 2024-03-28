@@ -1,0 +1,9 @@
+{
+    "soru": "/selam",
+    "cevap": "Merhaba! Size nas\u0131l yard\u0131mc\u0131 olabilirim? \ud83d\ude0a",
+    "tarih": "2024-03-28 23:19:39"
+}{
+    "soru": "/seaborn kuram\u0131yorum",
+    "cevap": "Seaborn k\u00fct\u00fcphanesini kurmak i\u00e7in terminal veya komut istemcisine `pip install seaborn` yazabilirsiniz. E\u011fer hala sorun ya\u015f\u0131yorsan\u0131z, daha detayl\u0131 bir hata mesaj\u0131 verebilir misiniz? \ud83d\ude0a",
+    "tarih": "2024-03-28 23:19:50"
+}{"soru": "/ nerde hata yapmi\u015fim anlamadim", "cevap": "Hatan\u0131n sebebi, bir string veriyi float t\u00fcr\u00fcne d\u00f6n\u00fc\u015ft\u00fcrmeye \u00e7al\u0131\u015fman\u0131z. Veri setinizdeki \"A\" de\u011feri float'a d\u00f6n\u00fc\u015ft\u00fcr\u00fclemiyor. Bu durumu d\u00fczeltmek i\u00e7in, bu t\u00fcr verileri uygun bir \u015fekilde \u00f6n i\u015fleme tabi tutmal\u0131s\u0131n\u0131z. \ud83d\udd04", "tarih": "2024-03-28 23:37:20"}
